@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **dhruv692000@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/17qSmUPqXH3Dab0BD5HxbUv4UutbNokor/view?usp=drive_link](https://drive.google.com/file/d/17qSmUPqXH3Dab0BD5HxbUv4UutbNokor/view?usp=drive_link)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/17qSmUPqXH3Dab0BD5HxbUv4UutbNokor/view?usp=drive_link)
 
 - ⚡ Fun fact **My gaming laptop is more effective then my heater. (under full load 🫠)**
 
