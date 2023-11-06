@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Dhruv Patel</h1>
 <h3 align="center">Aspiring Data Scientist</h3>
 
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhruv-sp&label=Profile%20views&color=0e75b6&style=flat" alt="dhruv-sp" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dhruv-sp" alt="dhruv-sp" /></a> </p>
