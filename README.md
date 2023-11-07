@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dhruv-sp" alt="dhruv-sp" /></a> </p>
 
-- 🔭 I’m currently working on **My Graduate program at Pace University**
+- 🔭 I’m currently working on **My Graduate program in Data Science at Pace University**
 
 - 🌱 I’m currently learning **GAI, AGI, Data Analysis, cloud and Docker**
 
